@@ -64,7 +64,7 @@ The dashboard is fully interactive with slicers for Outlet Location Type, Outlet
 - Create a “Top/Bottom 10 Items” page by sales and rating.
 
 ## Screenshots
-![Dashboard Preview](Blinkit-Dashboard.jpg)
+![Dashboard Preview](Blinkit-Dashboard.jpeg)
 
 ## Tech Stack
 - Power BI Desktop
